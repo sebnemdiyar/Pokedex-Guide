@@ -11,9 +11,9 @@ Pokedex Guide, HTML, CSS ve JavaScript kullanılarak geliştirilmiş basit ve ku
 
 ## 🛠️ Kullanılan Teknolojiler
 
-**HTML5** 
-**CSS3** 
-**JavaScript (Vanilla JS)**
+* HTML5 
+* CSS3
+* JavaScript (Vanilla JS)
 
 ## 📽️ Ekran Kaydı
 ![Pokedex Guide](https://github.com/user-attachments/assets/cc9450a9-33a7-4290-b748-4347ba755fc6)
